@@ -9,16 +9,13 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `JgKim Log`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `jgkim`,
+      summary: `who lives and works in Korea building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    siteUrl: `https://jg-kim.github.io/`,
   },
   plugins: [
     `gatsby-plugin-image`,
